@@ -5,6 +5,7 @@
 
 # development
 .env
+/config
 
 # testing
 /coverage

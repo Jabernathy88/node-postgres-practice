@@ -11,7 +11,12 @@
   "author": "Jeremy Abernathy",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^8.0.0"
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.0",
+    "pg": "^7.11.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^5.8.6"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
