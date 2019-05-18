@@ -1,0 +1,1 @@
+Testing Postgres database using Sequelize.
